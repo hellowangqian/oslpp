@@ -1,5 +1,7 @@
 # Overview
 This code should be able to reproduce the experimental results reported in the manuscript "Progressively Select and Reject Pseudo-labelled Samples for Open-Set Domain Adaptation"
+
+A python implementation by @tanyapole is available [here](https://github.com/tanyapole/reproduce-OSLPP)
 # Access to data
 You can download extracted features used in our experiments from [Dropbox](https://www.dropbox.com/sh/293h2sij1oirn3y/AAD_J8ZReGHglzw84RSs6sb8a?dl=0) or [BaiduPan](https://pan.baidu.com/s/1tLfPuOj8745bme4omzAcNg) code: 57ar\
 qian.wang173@hotmail.com
